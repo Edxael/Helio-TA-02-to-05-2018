@@ -16,3 +16,13 @@ Today we had the first class
 
 -----------------------------------------------------------------------
 ###        Other Notes
+
+
+
+
+
+--------------------------------------------------------------------
+
+Personal notes in preparation to answer questions: 
+https://reactjs.org/docs/react-component.html
+
